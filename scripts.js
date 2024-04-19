@@ -20,7 +20,7 @@ no.addEventListener('click', () => {
 
 yes.addEventListener('click', () => {
     salita.innerHTML = 'YEYYY!';
-    gif.src = "/after.gif";
+    gif.src = "/jhayyask/after.gif";
     yes.hidden = true;
     no.hidden = true;
 })

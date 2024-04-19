@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'test';
     src: url('/jhayyask/fonts/COMICSANS.TTF');
+    
 }
 *{
-    font-family: 'test';
+    font-family: 'test', Arial, Helvetica, sans-serif;
     color: white;
     margin: 0;
     padding: 0;
