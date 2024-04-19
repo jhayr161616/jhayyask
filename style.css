@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'test';
-    src: url('/fonts/COMICSANS.TTF');
+    src: url('/workspaces/jhayyask/fonts/COMICSANS.TTF');
 }
 *{
     font-family: 'test';
