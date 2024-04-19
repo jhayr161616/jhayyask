@@ -2,7 +2,8 @@ const yes = document.querySelector('#yes');
 const no = document.querySelector('#no');
 const salita  = document.querySelector('#salita');
 const gif = document.querySelector('#gif');
-
+const kanta = document.querySelector('#kanta');
+kanta.play();
 no.addEventListener('click', () => {
   const att = no.getBoundingClientRect();
   
