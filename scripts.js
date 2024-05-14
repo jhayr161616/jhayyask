@@ -5,6 +5,7 @@ const gif = document.querySelector('#gif');
 const kanta = document.querySelector('#kanta');
 
 no.addEventListener('click', () => {
+  kanta.play();
   const att = no.getBoundingClientRect();
   
   const x = window.innerWidth - att.width;
